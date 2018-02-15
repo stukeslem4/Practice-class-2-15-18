@@ -1,0 +1,21 @@
+public class Multi {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int H=5;
+		int J=25;
+		int P=multiply(H,J);
+				
+		System.out.println(P);
+	}
+		
+	public static int multiply(int Y1, int Y2){	
+		
+	int multiply=(Y1*Y2);	
+	return multiply;	
+		
+		
+	}
+
+}
